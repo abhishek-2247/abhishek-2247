@@ -8,7 +8,23 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://camo.githubusercontent.com/1d94fc39ac3d60c32f32e9e70c6346a97e3c19e3c5d3cdb83277932fedb4cfe0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3245394646462663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d50726f626c656d2b536f6c7665723b546563682b456e74687573696173743b496e6e6f7661746f72" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=2E9FFF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Problem+Solver;Tech+Enthusiast;Innovator" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=580&pause=20&color=2E9FFF&center=true&vCenter=true&width=435&lines=Passionate+Learner;AI/ML+Enthusiast;Logic+Builder" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=24&pause=600&color=FF5733&background=00000000&center=true&vCenter=true&width=600&lines=👋+Hey+There!;I'm+Developer+Abhi;Computer+Engineering+Student;AI%2FML+Enthusiast;Passionate+Learner" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hi+I'm+Developer+Abhi&fontSize=30&fontColor=ffffff" />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&speed=80&pause=400&color=F72585&background=00000000&center=true&vCenter=true&width=600&lines=⚡+Code.+Create.+Innovate.;🚀+AI/ML+Explorer;💡+Tech+Enthusiast;📚+Lifelong+Learner" alt="Typing SVG" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=20&duration=1200&pause=200&color=2E9FFF&background=00000000&center=true&vCenter=true&lines=Hi+I'm+Developer+Abhi;Building+Projects;Learning+Daily;Exploring+AI+%26+Tech" alt="Typing SVG" />
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=80&section=header&text=✨+Welcome+to+My+Profile+✨&fontSize=28&fontColor=ffffff" />
+</p>
 
 - Typing SVG
 🚀 About Me
