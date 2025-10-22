@@ -11,13 +11,32 @@ url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
 
 repos = requests.get(url, headers=headers).json()
 
-table_lines = ["| Repository | Description | Language | Updated |",
-               "|-----------|-------------|----------|---------|"]
+table_lines = ["| 🗂 Repository | 📝 Description | 💻 Language | ⏰ Updated |",
+               "|--------------|----------------|------------|------------|"]
 
 for repo in sorted(repos, key=lambda x: x["updated_at"], reverse=True):
-    name = f"[**{repo['name']}**]({repo['html_url']})"
-    desc = repo['description'] or "-"
+    # Add emojis to certain repo names dynamically
+    repo_icon = "🤖" if "ai" in repo['name'].lower() else "💡"
+    name = f"{repo_icon} [**{repo['name']}**]({repo['html_url']})"
+    
+    # Color-style for language
     lang = repo['language'] or "-"
+    if lang:
+        lang_colors = {
+            "Python": "🐍 Python",
+            "JavaScript": "✨ JavaScript",
+            "TypeScript": "🔷 TypeScript",
+            "Java": "☕ Java",
+            "PHP": "🐘 PHP",
+            "HTML": "🌐 HTML",
+            "CSS": "🎨 CSS",
+            "C++": "💠 C++",
+            "C": "🔹 C",
+            "SQL": "🗄 SQL"
+        }
+        lang = lang_colors.get(lang, lang)
+    
+    desc = repo['description'] or "-"
     updated = datetime.strptime(repo['updated_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%b %d, %Y")
     table_lines.append(f"| {name} | {desc} | {lang} | {updated} |")
 
