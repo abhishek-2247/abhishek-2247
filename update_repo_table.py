@@ -47,7 +47,7 @@ start = "<!-- REPO_TABLE_START -->"
 end = "<!-- REPO_TABLE_END -->"
 
 if start in content and end in content:
-    new_content = content.split(start)[0] + start + "\n\n" + "\n".join(table_lines) + "\n\n" + content.split(end)[1]
+    new_content = content.split(start)[0] + start + "\n\n" + "\n".join(table_lines) + "\n\n" + end + content.split(end)[1]
 else:
     # Fallback: append the table at the end of the content
     new_content = content + "\n\n" + "\n".join(table_lines)
