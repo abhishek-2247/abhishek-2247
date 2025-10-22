@@ -43,8 +43,8 @@ for repo in sorted(repos, key=lambda x: x["updated_at"], reverse=True):
 with open(README_PATH, "r", encoding="utf-8") as f:
     content = f.read()
 
-start = "<!-- REPO_TABLE_START -->"
-end = "<!-- REPO_TABLE_END -->"
+start = "<!--Start-->"
+end = "<!--End-->"
 
 if start in content and end in content:
     new_content = content.split(start)[0] + start + "\n\n" + "\n".join(table_lines) + "\n\n" + end + content.split(end)[1]
