@@ -46,7 +46,11 @@ with open(README_PATH, "r", encoding="utf-8") as f:
 start = "<!-- REPO_TABLE_START -->"
 end = "<!-- REPO_TABLE_END -->"
 
-new_content = content.split(start)[0] + start + "\n\n" + "\n".join(table_lines) + "\n\n" + content.split(end)[1]
+if start in content and end in content:
+    new_content = content.split(start)[0] + start + "\n\n" + "\n".join(table_lines) + "\n\n" + content.split(end)[1]
+else:
+    # Fallback: append the table at the end of the content
+    new_content = content + "\n\n" + "\n".join(table_lines)
 
 with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(new_content)
