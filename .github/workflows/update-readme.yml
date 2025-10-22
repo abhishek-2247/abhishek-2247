@@ -26,12 +26,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python update_repo_table.py
 
-      - name: Commit README changes
+      - name: Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update repository table" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/abhishek-2247/abhishek-2247.git HEAD:main
-
-
+          git push https://$GH_TOKEN@github.com/abhishek-2247/abhishek-2247.git HEAD:main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
