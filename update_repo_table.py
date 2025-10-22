@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 USERNAME = "abhishek-2247"
-TOKEN = os.getenv("GH_TOKEN")
+TOKEN = os.getenv("GH_TOKEN").strip()
 README_PATH = "README.md"
 
 headers = {"Authorization": f"token {TOKEN}"}
