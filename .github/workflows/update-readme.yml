@@ -2,8 +2,11 @@ name: Update GitHub Repo Table
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:    # Manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -12,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,13 +29,13 @@ jobs:
 
       - name: Update README with dynamic repo table
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python update_repo_table.py
 
-      - name: Push changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update repository table" || echo "No changes to commit"
-          git push https://$GH_TOKEN@github.com/abhishek-2247/abhishek-2247.git HEAD:main
+          git push origin HEAD:main
