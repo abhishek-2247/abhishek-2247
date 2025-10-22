@@ -88,25 +88,7 @@ I believe in learning something new every day and combining creativity with logi
 ## 📂 My Repositories
 
 <div align="center">
-
-| Repository | Description | Language | Updated |
-|-------------|-------------|-----------|----------|
-| 🧠 [**QVision**](https://github.com/abhishek-2247/QVision) | Computer Vision + AI/ML Project | TypeScript | 40 minutes ago |
-| 💬 [**Interview Preparation Website**](https://github.com/abhishek-2247/Interview-Preparation-Website) | Platform to practice and prepare interviews | TypeScript | 40 minutes ago |
-| 🤖 [**probe-pro-ai**](https://github.com/abhishek-2247/probe-pro-ai) *(Private)* | Smart AI-driven assistant | TypeScript | Yesterday |
-| 💡 [**Interview Preparation Tool**](https://github.com/abhishek-2247/Interview-Preparation-Tool) | Advanced Interview Prep Toolkit | — | 2 days ago |
-| 🧭 [**abhishek-2247**](https://github.com/abhishek-2247/abhishek-2247) | Creating Profile README file | — | 3 weeks ago |
-| 📝 [**Notepad_Clone**](https://github.com/abhishek-2247/Notepad_Clone) | Desktop Notepad app clone | Java | Aug 17 |
-| 💼 [**JobPortalPHP**](https://github.com/abhishek-2247/JobPortalPHP) | Job portal website using PHP | PHP | Mar 22 |
-| 🧩 [**JobPortal-JavaServlet**](https://github.com/abhishek-2247/JobPortal-JavaServlet) | Job portal using HTML, CSS, Java Servlet | Java | Dec 14, 2024 |
-| 🎮 [**OnlineTennisGame**](https://github.com/abhishek-2247/OnlineTennisGame) | HTML/CSS/JS-based tennis game | HTML | Dec 14, 2024 |
-
-
-
-
-</div>
-## My Repositories
-
+  
 <!-- REPO_TABLE_START -->
 
 | Repository | Description | Language | Updated |
@@ -121,6 +103,9 @@ I believe in learning something new every day and combining creativity with logi
 
 
 <!-- REPO_TABLE_END --->
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -153,24 +138,3 @@ I believe in learning something new every day and combining creativity with logi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=ffffff" />
 </p>
-
-
-| 🗂 Repository | 📝 Description | 💻 Language | ⏰ Updated |
-|--------------|----------------|------------|------------|
-| 💡 [**abhishek-2247**](https://github.com/abhishek-2247/abhishek-2247) | Creating Profile ReadMe file | 🐍 Python | Oct 22, 2025 |
-| 💡 [**QVision**](https://github.com/abhishek-2247/QVision) | Interview Preparation Website | 🔷 TypeScript | Oct 22, 2025 |
-| 💡 [**Interview-Preparation-Tool**](https://github.com/abhishek-2247/Interview-Preparation-Tool) | Interview Preparation Website | - | Oct 20, 2025 |
-| 💡 [**Notepad_Clone**](https://github.com/abhishek-2247/Notepad_Clone) | - | ☕ Java | Aug 17, 2025 |
-| 💡 [**JobPortalPHP**](https://github.com/abhishek-2247/JobPortalPHP) | Job portal website using php | 🐘 PHP | Mar 22, 2025 |
-| 💡 [**JobPortal-JavaServlet**](https://github.com/abhishek-2247/JobPortal-JavaServlet) | Job portal Website is developed using HTML, CSS and Java Servlet. | ☕ Java | Dec 14, 2024 |
-| 💡 [**OnlineTennisGame**](https://github.com/abhishek-2247/OnlineTennisGame) | Game Designed using HTML, CSS, JS | 🌐 HTML | Dec 14, 2024 |
-
-| 🗂 Repository | 📝 Description | 💻 Language | ⏰ Updated |
-|--------------|----------------|------------|------------|
-| 💡 [**abhishek-2247**](https://github.com/abhishek-2247/abhishek-2247) | Creating Profile ReadMe file | 🐍 Python | Oct 22, 2025 |
-| 💡 [**QVision**](https://github.com/abhishek-2247/QVision) | Interview Preparation Website | 🔷 TypeScript | Oct 22, 2025 |
-| 💡 [**Interview-Preparation-Tool**](https://github.com/abhishek-2247/Interview-Preparation-Tool) | Interview Preparation Website | - | Oct 20, 2025 |
-| 💡 [**Notepad_Clone**](https://github.com/abhishek-2247/Notepad_Clone) | - | ☕ Java | Aug 17, 2025 |
-| 💡 [**JobPortalPHP**](https://github.com/abhishek-2247/JobPortalPHP) | Job portal website using php | 🐘 PHP | Mar 22, 2025 |
-| 💡 [**JobPortal-JavaServlet**](https://github.com/abhishek-2247/JobPortal-JavaServlet) | Job portal Website is developed using HTML, CSS and Java Servlet. | ☕ Java | Dec 14, 2024 |
-| 💡 [**OnlineTennisGame**](https://github.com/abhishek-2247/OnlineTennisGame) | Game Designed using HTML, CSS, JS | 🌐 HTML | Dec 14, 2024 |
