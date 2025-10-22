@@ -33,5 +33,3 @@ jobs:
           git add README.md
           git commit -m "Update repository table" || echo "No changes to commit"
           git push https://$GH_TOKEN@github.com/abhishek-2247/abhishek-2247.git HEAD:main
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
