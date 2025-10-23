@@ -1,14 +1,10 @@
 <!-- ✨ HEADER SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hi,+I'm+Developer+Abhi!&fontSize=35&fontColor=pink" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=80&section=header&text=✨+Welcome+to+My+Profile+✨&fontSize=28&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=400&color=FF6B81&background=00000000&center=true&vCenter=true&width=600&lines=👋+Hey+There!;I'm+Abhishek+Patil;Computer+Engineering+Student;AI/ML+Enthusiast;Android+%26+Web+Developer;Passionate+Learner+and+Innovator" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=80&section=header&text=✨+Welcome+to+My+Profile+✨&fontSize=28&fontColor=ffffff" />
 </p>
 
 ---
@@ -131,5 +127,5 @@ I believe in learning something new every day and combining creativity with logi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=ff9999" />
 </p>
