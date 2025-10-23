@@ -127,5 +127,5 @@ I believe in learning something new every day and combining creativity with logi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=ff9999" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&text=✨+Thanks+for+Visiting!+✨&fontSize=24&fontColor=000000" />
 </p>
