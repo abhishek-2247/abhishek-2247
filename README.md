@@ -1,6 +1,6 @@
 <!-- ✨ HEADER SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hi,+I'm+Developer+Abhi!&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Hi,+I'm+Developer+Abhi!&fontSize=35&fontColor=pink" />
 </p>
 
 <p align="center">
