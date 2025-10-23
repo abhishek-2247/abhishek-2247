@@ -40,7 +40,7 @@ I believe in learning something new every day and combining creativity with logi
 ## 🌟 Highlights
 - 🏆 **Winner** of multiple **coding competitions** (State & National level)  
 - 🎓 **Campus Ambassador** — *GirlScript Summer of Code 2025*  
-- 💼 **Internship:** Eonlogic (Web & App Dev) – built scalable full-stack systems  
+- 💼 **Internship:** Eonlogic (Data Science) – built small ML Projects 
 - 📜 **Certifications:** Postman API Fundamentals, Python Basics  
 - 🤝 **Mentor & Team Collaborator:** Love guiding peers and building together  
 
@@ -76,7 +76,7 @@ I believe in learning something new every day and combining creativity with logi
 <p align="center">
   <a href="https://github.com/abhishek-2247" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhishekpatil5072" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/abhishekpatil5072" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/abhishekpatil501" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
@@ -101,13 +101,13 @@ I believe in learning something new every day and combining creativity with logi
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-2247&show_icons=true&theme=radical&hide_border=false&bg_color=00000000" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2247&theme=radical&hide_border=false&background=00000000" height="165px" />
+<div align="center" style="background:#ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-2247&show_icons=true&theme=radical&hide_border=false&bg_color=000000" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2247&theme=radical&hide_border=false&background=000000" height="165px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-2247&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-2247&layout=compact&theme=tokyonight&hide_border=false&bg_color=000000" height="165px" />
 </div>
 
 ---
