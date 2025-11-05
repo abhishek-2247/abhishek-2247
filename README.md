@@ -88,7 +88,6 @@ I believe in learning something new every day and combining creativity with logi
 | 🗂 Repository | 📝 Description | 💻 Language | ⏰ Updated |
 |--------------|----------------|------------|------------|
 | 💡 [**abhishek-2247**](https://github.com/abhishek-2247/abhishek-2247) | Creating Profile ReadMe file | 🐍 Python | Oct 23, 2025 |
-| 💡 [**QVision**](https://github.com/abhishek-2247/QVision) | Interview Preparation Website | 🔷 TypeScript | Oct 22, 2025 |
 | 💡 [**Interview-Preparation-Tool**](https://github.com/abhishek-2247/Interview-Preparation-Tool) | Interview Preparation Website | - | Oct 20, 2025 |
 | 💡 [**Notepad_Clone**](https://github.com/abhishek-2247/Notepad_Clone) | - | ☕ Java | Aug 17, 2025 |
 | 💡 [**JobPortalPHP**](https://github.com/abhishek-2247/JobPortalPHP) | Job portal website using php | 🐘 PHP | Mar 22, 2025 |
